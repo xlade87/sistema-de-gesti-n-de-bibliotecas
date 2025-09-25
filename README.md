@@ -150,7 +150,7 @@ La base de datos incluye 11 procedimientos almacenados para operaciones avanzada
 2. Mantener el catálogo de escritores de forma independiente
 3. Gestionar información biográfica de autores
 
-## 🔧 Funcionalidades Avanzadas
+## Funcionalidades Avanzadas
 
 ### Validaciones Implementadas
 - Campos obligatorios en todos los formularios

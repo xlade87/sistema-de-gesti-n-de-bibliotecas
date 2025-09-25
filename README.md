@@ -15,7 +15,7 @@ Sistema desarrollado en Python con interfaz gráfica Tkinter para la gestión co
 - **Base de datos MySQL** con procedimientos almacenados
 - **Validación de datos** en tiempo real
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Lenguaje de programación:** Python 3.x
 - **Interfaz gráfica:** Tkinter
@@ -24,7 +24,7 @@ Sistema desarrollado en Python con interfaz gráfica Tkinter para la gestión co
 - **Gestor de BD:** HeidiSQL
 - **Control de versiones:** Git
 
-## 📋 Requisitos del Sistema
+## Requisitos del Sistema
 
 ### Software Requerido
 - Python 3.8 o superior
@@ -97,7 +97,7 @@ python src/sistema de gestion de biblioteca.py
 - `fecha_devolucion` (DATE)
 - `devuelto` (BOOLEAN, DEFAULT FALSE)
 
-#### ⭐ Reseñas
+#### Reseñas
 - `id` (INT, PRIMARY KEY, AUTO_INCREMENT)
 - `libro_id` (INT, FOREIGN KEY)
 - `usuario_id` (INT, FOREIGN KEY)
@@ -129,7 +129,7 @@ La base de datos incluye 11 procedimientos almacenados para operaciones avanzada
 ##  Uso de la Aplicación
 
 ### Módulo de Libros
-1. Navegar a la pestaña "📚 Libros"
+1. Navegar a la pestaña "Libros"
 2. Completar el formulario con los datos del libro
 3. Hacer clic en "Guardar" para agregar al sistema
 4. Usar "Buscar por ID" para localizar libros existentes
@@ -174,7 +174,7 @@ El sistema incluye datos de demostración:
 - 3 préstamos de ejemplo
 - 3 reseñas demostrativas
 
-## 👨‍💻 Desarrollo
+## Desarrollo
 
 ### Estructura del Código
 El proyecto sigue una arquitectura en tres capas:

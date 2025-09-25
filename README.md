@@ -39,7 +39,7 @@ Sistema desarrollado en Python con interfaz gráfica Tkinter para la gestión co
 
 ### Paso 1: Clonar el Repositorio
 ```bash
-
+https://github.com/xlade87/sistema-de-gesti-n-de-bibliotecas
 ```
 
 ### Paso 2: Instalar Dependencias

@@ -39,8 +39,7 @@ Sistema desarrollado en Python con interfaz gráfica Tkinter para la gestión co
 
 ### Paso 1: Clonar el Repositorio
 ```bash
-git clone https://github.com/tuusuario/biblioteca-management-system.git
-cd biblioteca-management-system
+
 ```
 
 ### Paso 2: Instalar Dependencias

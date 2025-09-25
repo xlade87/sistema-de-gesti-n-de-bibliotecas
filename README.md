@@ -1,4 +1,4 @@
-# Sistema de Gestión de Biblioteca Personal
+# Sistema de Gestión de Biblioteca 
 
 ## Descripción del Proyecto
 
